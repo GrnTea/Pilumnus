@@ -1,2 +1,2 @@
 # Pilumnus
-training project
+training project in HTML/CSS
